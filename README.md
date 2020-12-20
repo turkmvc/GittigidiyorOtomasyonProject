@@ -1,0 +1,2 @@
+# GittigidiyorOtomasyonProject
+Java-Selenium gittigidiyor otomasyonu
